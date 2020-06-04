@@ -1,0 +1,1 @@
+realización de scripts para permisos de shell
