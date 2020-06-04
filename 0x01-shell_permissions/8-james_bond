@@ -1,0 +1,2 @@
+#!/bin/bash
+ug+-r-w-x,o+r+w+x
