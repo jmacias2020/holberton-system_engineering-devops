@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$az1$az2\n" | az1={a..z} | az2={a..z}
+printf "%s\n" {a..z}{a..z} | grep -v "oo"
